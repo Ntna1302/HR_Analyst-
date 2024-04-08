@@ -31,7 +31,7 @@ By integrating these DAX measures into our data mining process, we derive action
 Our analytics project empowers HR decision-makers by uncovering critical workforce insights. With sophisticated data mining, we spotlight turnover trends and identify key areas for intervention, ultimately supporting strategic decisions to bolster retention and optimize talent management.
 
 ## BI dashboard
-[](https://app.powerbi.com/groups/me/reports/5ebeef25-9c44-4ce1-b3a0-638253700d76?ctid=a7380202-eb54-415a-9b66-4d9806cfab42&pbi_source=linkShare). ** This dashboard serves as a potent tool for HR professionals, streamlining complex data into intuitive insights. It offers flexible, user-driven analysis options, exemplifying our strategic application of BI tools. This dedication to harnessing data underscores our pursuit of excellence in employee turnover and retention strategies.
+[Dashboard](https://app.powerbi.com/groups/me/reports/5ebeef25-9c44-4ce1-b3a0-638253700d76?ctid=a7380202-eb54-415a-9b66-4d9806cfab42&pbi_source=linkShare). ** This dashboard serves as a potent tool for HR professionals, streamlining complex data into intuitive insights. It offers flexible, user-driven analysis options, exemplifying our strategic application of BI tools. This dedication to harnessing data underscores our pursuit of excellence in employee turnover and retention strategies.
 
 # I****nsights, Challenges, and Recommendations****
 
