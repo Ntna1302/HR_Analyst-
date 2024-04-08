@@ -13,5 +13,5 @@ Our objective is to leverage this data to identify key factors that contribute t
 Our exploration begins with the "HR_DATA" table, examining metrics like department, division, and employment duration to understand turnover patterns within Topica. The "Turnover Rate per Company Location" allows us to assess the turnover geographically, identifying if certain regions are more affected. Additionally, the "Dim_NG" and "Top 5 Positions in January" focus on specific job roles and their turnover rates, potentially uncovering roles that may require more attention due to higher attrition rates. This targeted analysis of turnover by location and position sets the stage for deeper investigation into the root causes of employee departure.
 
 ## Data Design 
-![datawh](image/DataModel.png)
+![datawh](Image/DataModle.png)
 
