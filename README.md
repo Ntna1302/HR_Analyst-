@@ -42,7 +42,7 @@ This dashboard serves as a potent tool for HR professionals, streamlining comple
 
 **Report:** [Report]()
 
-**BI Dashboard:** [PowerBI Dashboard]([https://public.tableau.com/app/profile/nam.nguyen7732/viz/CustomerSegmentationDashboard-RFMAnalysis/Dashboard1?publish=yes](https://app.powerbi.com/groups/me/reports/5ebeef25-9c44-4ce1-b3a0-638253700d76?ctid=a7380202-eb54-415a-9b66-4d9806cfab42&pbi_source=linkShare))
+**BI Dashboard:** [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/5ebeef25-9c44-4ce1-b3a0-638253700d76?ctid=a7380202-eb54-415a-9b66-4d9806cfab42&pbi_source=linkShare)
 
 
 
